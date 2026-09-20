@@ -1,6 +1,6 @@
 # Git Practice
 
-Git과 GitHub 연습용 저장소입니다.
+Git과 GitHub를 로컬에서 연습하는 저장소입니다.
 
 ## 실행 방법
 
