@@ -15,3 +15,4 @@ Git과 GitHub를 GitHub에서 연습하는 저장소입니다.
 브랜치와 Pull Request를 연습합니다.
 
 GitHub에서 수정한 내용입니다.
+원격에서 한 번 더 수정했습니다.
